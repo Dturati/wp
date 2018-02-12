@@ -81,11 +81,11 @@ $wp_customize->add_panel( 'wallstreet_service_options', array(
 	$wp_customize->add_setting(
     'wallstreet_pro_options[service_description_one]',
     array(
-        'default' => 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit dignissim dapib tumst dign eger porta nisl.',
-		 'capability'     => 'edit_theme_options',
-		 'sanitize_callback' => 'sanitize_text_field',
-		 'type' => 'option'
-    )	
+//        'default' => 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit dignissim dapib tumst dign eger porta nisl.',
+//		 'capability'     => 'edit_theme_options',
+//		 'sanitize_callback' => 'sanitize_text_field',
+//		 'type' => 'option'
+    )
 	);
 	$wp_customize->add_control(
     'wallstreet_pro_options[service_description_one]',

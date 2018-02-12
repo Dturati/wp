@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 <!-- Page Title Section -->
 <div class="page-mycarousel">
-	<img src="<?php echo get_template_directory_uri(); ?>/images/page-header-bg.jpg"  class="img-responsive">
+<!--	<img src="--><?php //echo get_template_directory_uri(); ?><!--/images/page-header-bg.jpg"  class="img-responsive">-->
 	<div class="container page-title-col">
 		<div class="row">
 			<div class="col-md-12 col-sm-12">
